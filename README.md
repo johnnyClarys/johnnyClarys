@@ -1,6 +1,6 @@
 👋🏻👋🏻👋🏻👋🏻👋🏻👋🏻
 
-- 👋 Salut, je m'appelle @johnnyClarys
+- 👋 Salut, je m'appelle Johnny, mais j'ai toujours préféré "John"
 - 👀 Je suis intéressé par l'informatique, et les jeux de rôle
 - 🌱 J'apprends actuellement a être Developpeur Web
 
